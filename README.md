@@ -1,2 +1,23 @@
-# quiz-time-app
-Quiztime is a fast IQ test for users , it includes several categories from primary to graduates courses.So everyone can make a use of it in their free time. Users can have a lot of fun and great experience using it.It gets updated by time in future.
+# QuizTime AI App
+
+This is an AI-powered quiz application built using AI tools.
+
+## Features
+- Interactive quiz interface
+- Multiple questions
+- User-friendly UI
+
+## Technologies Used
+- React / Next.js
+- TypeScript
+
+## How to Run
+
+1. Install dependencies:
+npm install
+
+2. Start the app:
+npm run dev
+
+## Note
+This project was generated using AI tools and customized by me.
